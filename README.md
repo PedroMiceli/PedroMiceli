@@ -5,7 +5,7 @@
 <h3 align="center">Linux is love, linux is life.</h3>
 </p>
 <p align="center">
-<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="400" height="100" />
+<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="1000" height="100" />
 </p>
 <hr>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
