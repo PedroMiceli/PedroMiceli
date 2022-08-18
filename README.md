@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
+
 <p align="center">
 <h3 align="center">Linux is love, linux is life.</h3>
-<img align="center" src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="400" height="400" />
+</p>
+<p align="center">
+<img src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="400" height="400" />
 </p>
 
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
