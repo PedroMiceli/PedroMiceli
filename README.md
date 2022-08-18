@@ -11,7 +11,7 @@
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
 - 💬 Ask me about **Hadoop, Spark, Hive and Python.**
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: **pedro.miceli@hotmail.com**
+- 📫 How to reach me: **pedro.miceli@hotmail.com** <br>
 - :iphone: How to reach me: **pedro.miceli@hotmail.com**
 
 
