@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
-<h3 align="center">:coffee::snake:A passionate data engineer and back-end developer.:coffee::snake:</h3>
+<h3 align="center">:coffee::snake:A passionate data engineer and back-end developer.:snake::coffee:</h3>
 
 <p align="center">
 <h3 align="center">Linux is love, linux is life.</h3>
