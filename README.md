@@ -10,10 +10,11 @@
 <hr>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
 - 💬 Ask me about **Hadoop, Spark, Hive and Python.**
-
-- 📫 How to reach me: **pedro.miceli@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me: **pedro.miceli@hotmail.com**
+- :iphone: How to reach me: **pedro.miceli@hotmail.com**
+
+
 <p align="left">
 </p>
 <hr>
