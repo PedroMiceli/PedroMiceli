@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img align="center" src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="40" height="40" />
 
 - 💬 Ask me about **Hadoop, Spark, Hive and Python.**
 
