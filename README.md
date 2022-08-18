@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
 
-<img align="center" src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="400" height="400" />
-
+<h3 align="center">Linux is love, linux is life.</h3>
+<img align="center" src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="400" height="400" /><h3 align="center">A passionate data engineer and back-end developer.</h3>
 - 💬 Ask me about **Hadoop, Spark, Hive and Python.**
 
 - 📫 How to reach me: **pedro.miceli@hotmail.com**
