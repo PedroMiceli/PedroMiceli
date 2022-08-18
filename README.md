@@ -5,14 +5,14 @@
 <h3 align="center">Linux is love, linux is life.</h3>
 </p>
 <p align="center">
-<img src="https://1.bp.blogspot.com/-YY_QHQ7pEzo/XoCz3YkwTHI/AAAAAAAAyXY/cpeavZuB6Vgg9c2zRr8f2NFYCk6IFS2qACLcBGAsYHQ/s640/tenor.gif" width="400" height="400" />
+<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="400" height="100" />
 </p>
 <hr>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
 - 💬 Ask me about **Hadoop, Spark, Hive and Python.**
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: **pedro.miceli@hotmail.com** <br>
-- :iphone: How to reach me: **pedro.miceli@hotmail.com**
+- :iphone: How to reach me: **(11) 97595-9336**
 
 
 <p align="left">
