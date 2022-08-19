@@ -1,12 +1,12 @@
-<p align="center">
-<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" height="150" />
-</p>
+<h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
+<h3 align="center">:coffee::snake:A passionate data engineer and back-end developer.:snake::coffee:</h3>
+
 <p align="center">
 <h3 align="center">Linux is love, linux is life.</h3>
 </p>
-
-<h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
-<h3 align="center">:coffee::snake:A passionate data engineer and back-end developer.:snake::coffee:</h3>
+<p align="center">
+<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" height="150" />
+</p>
 
 <hr>
 <h3 align="center">A passionate data engineer and back-end developer.</h3>
