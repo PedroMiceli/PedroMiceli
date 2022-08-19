@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pedro Miceli</h1>
-<h3 align="center">:coffee::snake:A passionate data engineer and back-end developer.:snake::coffee:</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=029F00&width=600&height=55&lines=👋+HI+!!!+Im+Pedro+Miceli" alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=040FF7&width=750&lines=☕🐍+A+passionate+data+engineer+and+back-end+developer+☕🐍" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="center">
 <h3 align="center">Linux is love, linux is life.</h3>
